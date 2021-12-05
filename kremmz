@@ -1,0 +1,9 @@
+--[[
+Developed by XP3 Softworks - .gg/p8sxzB9AQu
+--]]
+
+-- XP4
+loadstring(game:HttpGet("https://paste.ee/r/mUJRr"))()
+
+-- XP4 Silent Aim 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NiquilSipper240/Xp4silentaim/main/XP4"))()
