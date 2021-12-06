@@ -7,6 +7,3 @@ loadstring(game:HttpGet("https://paste.ee/r/mUJRr"))()
 
 -- XP3 Silent Aim 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NiquilSipper240/Xp4silentaim/main/XP4"))()
-
--- XP3 Streamable Silent aim
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NiquilSipper240/1738/main/Kremmz'ssilentaimAkaKimbladi", true))()
