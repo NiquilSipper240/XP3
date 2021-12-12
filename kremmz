@@ -1,9 +1,3 @@
---[[
-Developed by XP3 Softworks - .gg/p8sxzB9AQu
---]]
-
--- Fortnite.gay GUI
-loadstring(game:HttpGet("https://paste.ee/r/mUJRr"))()
-
+--Developed by XP3 Softworks - .gg/p8sxzB9AQu
 -- XP3 Silent Aim 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NiquilSipper240/XP4/main/kremmz"))()
